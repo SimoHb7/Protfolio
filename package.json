@@ -2,7 +2,8 @@
   "name": "protfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hp.github.io/Protfolio",
+  "homepage": "https://mohamedlahbari.github.io",
+
   "dependencies": {
 
     "dotenv": "^14.2.0",

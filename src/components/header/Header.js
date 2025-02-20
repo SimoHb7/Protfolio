@@ -12,10 +12,14 @@ const Header = () => {
         <Headroom>
             <header className={isDark ? "dark-menu header" : "header"}>
                 {/* Logo */}
-                <a href="/" className="logo">
-                    <span className="grey-color"> &lt;</span>
+                <a href="https://simohb7.github.io/Protfolio/" className="logo">
+
+
+                    <span className="grey-color"> {'<'}</span>
+
                     <span className={isDark ? 'dark-menu logo-name' : 'logo-name'}>{greeting.username}</span>
-                    <span className="grey-color">/&gt;</span>
+                    <span className="grey-color"> {'/>'}</span>
+
                 </a>
                 
                 {/* menu(phone) */}
