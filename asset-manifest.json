@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Protfolio/static/css/main.eb5e9d06.css",
+    "main.js": "/Protfolio/static/js/main.464ec21a.js",
+    "static/css/791.b5a90345.chunk.css": "/Protfolio/static/css/791.b5a90345.chunk.css",
+    "static/js/791.a4cfad12.chunk.js": "/Protfolio/static/js/791.a4cfad12.chunk.js",
+    "static/css/430.5d32323f.chunk.css": "/Protfolio/static/css/430.5d32323f.chunk.css",
+    "static/js/430.813e7897.chunk.js": "/Protfolio/static/js/430.813e7897.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Protfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/Protfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Protfolio/static/media/manOnTable.8f117eb207e57ed8f89d.svg",
+    "static/media/mongodb.png": "/Protfolio/static/media/mongodb.911d600323e9c405d0db.png",
+    "static/media/coursera.png": "/Protfolio/static/media/coursera.8d86ce56521400a6e136.png",
+    "static/media/contactMailDark.svg": "/Protfolio/static/media/contactMailDark.1db650d351729a0f17b4.svg",
+    "static/media/developerActivity.svg": "/Protfolio/static/media/developerActivity.2c0445cae86f4243433a.svg",
+    "static/media/udemy.png": "/Protfolio/static/media/udemy.5cff5e25e0adff57b798.png",
+    "static/media/programmer.svg": "/Protfolio/static/media/programmer.becd1465cc28d37ba166.svg",
+    "static/media/skill.svg": "/Protfolio/static/media/skill.35a147662ab0a1d15e57.svg",
+    "index.html": "/Protfolio/index.html",
+    "static/media/googleAssistant.svg": "/Protfolio/static/media/googleAssistant.3227e84a89a1650db619.svg",
+    "static/media/talksCardBack.svg": "/Protfolio/static/media/talksCardBack.99241699e0279aeb0db7.svg",
+    "main.eb5e9d06.css.map": "/Protfolio/static/css/main.eb5e9d06.css.map",
+    "main.464ec21a.js.map": "/Protfolio/static/js/main.464ec21a.js.map",
+    "791.b5a90345.chunk.css.map": "/Protfolio/static/css/791.b5a90345.chunk.css.map",
+    "791.a4cfad12.chunk.js.map": "/Protfolio/static/js/791.a4cfad12.chunk.js.map",
+    "430.5d32323f.chunk.css.map": "/Protfolio/static/css/430.5d32323f.chunk.css.map",
+    "430.813e7897.chunk.js.map": "/Protfolio/static/js/430.813e7897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5e9d06.css",
+    "static/js/main.464ec21a.js"
+  ]
+}
