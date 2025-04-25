@@ -7,18 +7,18 @@ const greeting = {
   greetingName: "Mohamed Lahbari",
   subTitle: emoji(" IT & Dev Student 👨‍💻  "),
   resumeLink:
-    "https://drive.google.com/file/d/1LPu376I8bkUB_CJRiAkPrUNpNa5MbXVQ/view?usp=sharing",
+    "https://drive.google.com/file/d/1-e9zQ-7APRWMepir7sSPGDz1IPz1-R1Y/view?usp=sharing",
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
   github: "https://github.com/SimoHb7",
-  linkedin: "https://www.linkedin.com/in/",
-  dev: "https://dev.to/",
+  linkedin: "https://www.linkedin.com/in/mohamed-lahbari-6b1751361/",
+  //dev: "https://dev.to/",
   gmail: "mohamedlahbari114@gmail.com",
-  twitter: "https://twitter.com/",
-  discord: "https://discordapp.com/",
+  //twitter: "https://twitter.com/",
+  //discord: "https://discordapp.com/",
 };
 
 // Skills Section
@@ -146,15 +146,6 @@ const certifications = {
       logo_path: "coursera.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/OWU1TK1WZO6M",
-      alt_name: "coursera",
-      color_code: "#F0FFDD",
-    },
-    {
-      title: "React",
-      subtitle: "- courses",
-      logo_path: "coursera.png",
-      certificate_link:
-        "https://coursera.org/share/64562f161b55359c054ac5bbc6296f50",
       alt_name: "coursera",
       color_code: "#F0FFDD",
     },
