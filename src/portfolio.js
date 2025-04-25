@@ -1,6 +1,7 @@
 // Summary And Greeting Section
 import emoji from "react-easy-emoji";
 
+
 const greeting = {
   username: "SiCode",
   greetingText: "Hi all, I'm ",
