@@ -176,25 +176,25 @@ const blogSection = {
   //subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt",
   blogs: [
     {
-      //url: "https://dev.to/bhavinvirani/getting-started-with-git-1jlj",
+      //url: "https://dev.to",
       title: "Getting Started with 'Git'",
       description:
         "Git is a version control system (VCS) that makes easier to track changes to files(code). For example, when you edit a file, git can help you to determine...",
     },
     // {
-    //   url: "https://dev.to/bhavinvirani/2d-vector-in-c-23gh",
+    //   url: "https://dev.to",
     //   title: " about Mongoose",
     //   description:
     //     "MnongoDB provides it's native driver to work with our project at server side but it may be large amount of code or repetition in code but...",
     // },
     {
-      //url: "https://dev.to/bhavinvirani/vector-in-c-4550",
+      //url: "https://dev.to/",
       title: "Vector in C++",
       description:
         "Vectors in C++ are sequence containers representing arrays that can change their size during runtime. They use contiguous storage locations for their elements...",
     },
     {
-      //url: "https://dev.to/bhavinvirani/2d-vector-in-c-23gh",
+      //url: "https://dev.to/",
       title: "2D Vector in C++",
       description:
         "We can define 2D Vector as Vector of Vector followed by N number of rows where each of the row is individual a vector...",
