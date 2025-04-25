@@ -122,6 +122,43 @@ const certifications = {
       alt_name: "University of Pennsylvania",
       color_code: "#FEF6E6",
     },
+    {
+      title: "Virtual Networks in Azure",
+      subtitle: "- courses",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/ATZ99I4INGZX",
+      alt_name: "coursera",
+      color_code: "#F0FFDD",
+    },
+    {
+      title: "Introduction to Cloud Computing",
+      subtitle: "- courses",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/GL95CDCMWJM4",
+      alt_name: "coursera",
+      color_code: "#F0FFDD",
+    },
+    {
+      title: "Introduction to Containers w/ Docker, Kubernetes & OpenShift",
+      subtitle: "- courses",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/verify/OWU1TK1WZO6M",
+      alt_name: "coursera",
+      color_code: "#F0FFDD",
+    },
+    {
+      title: "React",
+      subtitle: "- courses",
+      logo_path: "coursera.png",
+      certificate_link:
+        "https://coursera.org/share/64562f161b55359c054ac5bbc6296f50",
+      alt_name: "coursera",
+      color_code: "#F0FFDD",
+    },
+
     // {
     //   title: "MongoDB for JavaScript Developers",
     //   subtitle: "- MongoDB",
